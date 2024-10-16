@@ -39,11 +39,8 @@ To get started with the **Mark Down To Html** solution repository, follow these 
  ![additional_image](mark_down_to_HTML.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
