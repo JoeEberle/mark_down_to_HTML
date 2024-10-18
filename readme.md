@@ -1,17 +1,8 @@
-
-![Image image_filename](solution_sign.png)
-
-# Mark Down To Html - A utility to create a web page HTML out of mark down documents.
-A utility to create a web page HTML out of mark down documents.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Mark Down To Html - A utility to create a web page HTML out of mark down documents.![Image image_filename](code.png)
 Welcome to the solution **Mark Down To Html** - an example for your projects
 
 A utility to create a web page HTML out of mark down documents.
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Mark Down To Html** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -26,6 +17,9 @@ To get started with the **Mark Down To Html** solution repository, follow these 
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -35,13 +29,11 @@ To get started with the **Mark Down To Html** solution repository, follow these 
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](mark_down_to_HTML.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
