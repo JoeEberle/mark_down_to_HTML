@@ -49,13 +49,3 @@ To get started with the **Mark Down To Html** solution repository, follow these 
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](Automated_Conversion.png)  <br>![additional_image](mark_down_to_HTML.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
